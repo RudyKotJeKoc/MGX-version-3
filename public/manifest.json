@@ -1,0 +1,17 @@
+{
+  "name": "Radio Adamowo",
+  "short_name": "Adamowo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0ff0a8",
+  "description": "Radio Adamowo — hub wiedzy, muzyki i dokumentów. Słuchaj szumu prawdy w eterze manipulacji.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
